@@ -1,6 +1,6 @@
 # MC FAQ
 
-#№ Как начать играть?
+## Как начать играть?
 
 
 Видеоinstruction (1 min): https://youtu.be/7Uah3MtlPZw
